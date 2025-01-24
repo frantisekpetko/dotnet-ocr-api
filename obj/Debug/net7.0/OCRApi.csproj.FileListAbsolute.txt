@@ -42,3 +42,10 @@ E:\csharpconsole\OCRApi\obj\Debug\net7.0\OCRApi.pdb
 E:\csharpconsole\OCRApi\obj\Debug\net7.0\OCRApi.genruntimeconfig.cache
 E:\csharpconsole\OCRApi\obj\Debug\net7.0\ref\OCRApi.dll
 E:\csharpconsole\OCRApi\bin\Debug\net7.0\global.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\out\web.config
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\out\appsettings.Development.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\out\appsettings.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\out\global.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\out\OCRApi.deps.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\out\OCRApi.runtimeconfig.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\out\text.json
