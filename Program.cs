@@ -75,7 +75,8 @@ internal class Program
         app.MapPost("api/ocr", (Image image) =>
         {
             var engine = new TesseractEngine(@"C:\tessdata", "ces");
-            var imageData = Pix.LoadFromMemory(Convert.FromBase64String(image.ImageString));
+	    string safeBase64String = image?.ImageString ?? string.Empty;
+            var imageData = Pix.LoadFromMemory(Convert.FromBase64String(safeBase64String));
 
             var page = engine.Process(imageData);
 

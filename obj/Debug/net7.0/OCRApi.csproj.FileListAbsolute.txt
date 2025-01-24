@@ -1,5 +1,6 @@
 E:\csharpconsole\OCRApi\bin\Debug\net7.0\appsettings.Development.json
 E:\csharpconsole\OCRApi\bin\Debug\net7.0\appsettings.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\text.json
 E:\csharpconsole\OCRApi\bin\Debug\net7.0\x86\leptonica-1.82.0.dll
 E:\csharpconsole\OCRApi\bin\Debug\net7.0\x86\tesseract50.dll
 E:\csharpconsole\OCRApi\bin\Debug\net7.0\x64\leptonica-1.82.0.dll
@@ -40,4 +41,4 @@ E:\csharpconsole\OCRApi\obj\Debug\net7.0\refint\OCRApi.dll
 E:\csharpconsole\OCRApi\obj\Debug\net7.0\OCRApi.pdb
 E:\csharpconsole\OCRApi\obj\Debug\net7.0\OCRApi.genruntimeconfig.cache
 E:\csharpconsole\OCRApi\obj\Debug\net7.0\ref\OCRApi.dll
-E:\csharpconsole\OCRApi\bin\Debug\net7.0\text.json
+E:\csharpconsole\OCRApi\bin\Debug\net7.0\global.json
